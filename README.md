@@ -5,4 +5,4 @@ The MCP server exposes well-defined tools that encapsulate access to the employe
 
 The MCP client is powered by Llama 3.1 8B and connects to the MCP server over the MCP protocol. When a user submits a natural language query, the model interprets the intent, invokes the appropriate MCP tool, and returns a structured response.
 
-This design ensures secure, auditable, and controlled access to employee data while enabling conversational querying capabilities.
+This design ensures secure, auditable, and controlled access to employee data while enabling conversational querying capabilities and the client gives answers.
